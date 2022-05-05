@@ -1,0 +1,2 @@
+name,id,nametype,recclass,mass,fall,year,reclat,reclong,geolocation.type,geolocation.coordinates
+Acapulco,10,Valid,Acapulcoite,1914,Fell,1976-01-01T00:00:00.000,16.883330,-99.900000,Point,"[-99.9, 16.88333]"

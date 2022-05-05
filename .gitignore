@@ -1,0 +1,9 @@
+*.idea
+*.DS_Store
+*postgres-data
+*__pycache__
+*.pytest_cache
+*downloads
+Exercises/Exercise-5/postgres-data
+Exercises/Exercise-6/data/Divvy_Trips_2019_Q4.zip
+Exercises/Exercise-6/data/Divvy_Trips_2020_Q1.zip
